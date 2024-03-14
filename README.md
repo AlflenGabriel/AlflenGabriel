@@ -1,10 +1,10 @@
-### Olá, eu sou o Gabriel Alflen 🖐️
+### Hi, i'm Gabriel Alflen 🖐️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alflengabriel/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlflenGabriel&hide_progress=true)
 
-### Tecnologias que utilizo no meu dia a dia 🖥️
+### Technologies I Use in My Daily Life 🖥️
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -21,7 +21,9 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-#### Profissional com experiência em explorar e transformar dados em insights significativos. 📈
+#### I build pixel-perfect, engaging, and accessible digital experiences. 🖌
+
+#### Professional with experience in exploring and transforming data into meaningful insights. 📈
 
 
 
