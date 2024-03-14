@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alflengabriel/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlflenGabriel&show_icons=true&theme=onedark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlflenGabriel&hide_progress=true)
 
 ### Tecnologias que utilizo no meu dia a dia 🖥️
